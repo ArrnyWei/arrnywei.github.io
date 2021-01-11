@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/27rnc89dy4933ya/EcogeniePlus_STG%202021-01-08%2018-58-02.ipa?dl=0</string>
+					<string>https://dl.dropboxusercontent.com/s/ye1p2jyb4vqjmdd/EcogeniePlus_STG%202021-01-11%2011-14-48.ipa?dl=0</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>io.nextdrive.ecogenie.stg</string>
 				<key>bundle-version</key>
-				<string>1.2.0300</string>
+				<string>1.2.030001</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
